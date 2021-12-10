@@ -1,2 +1,2 @@
 # Projet-Cloud
-Déploiement d'une API sur le cloud
+Déploiement d'une API de machine learningsur le cloud
